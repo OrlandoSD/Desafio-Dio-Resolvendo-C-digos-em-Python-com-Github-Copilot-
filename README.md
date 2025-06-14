@@ -2,7 +2,7 @@
 
 ## 💡 Descrição
 
-Este repositório faz parte de uma prática que explora o uso do **GitHub Copilot** e do **GitHub Codespaces** no desenvolvimento de soluções algorítmicas em Python. A proposta é demonstrar como essas ferramentas podem auxiliar na codificação, tratamento de erros e documentação durante projetos de software.
+Este repositório faz parte de uma prática que explora o uso do **GitHub Copilot** e do **GitHub Codespaces** no desenvolvimento de soluções algorítmicas em Python. A proposta é demonstrar como essas ferramentas podem auxiliar na codificação, e na concatenação de dados entre outros.
 
 ## 🚀 Objetivos
 
